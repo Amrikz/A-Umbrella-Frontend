@@ -6,7 +6,7 @@
         <input name="username" placeholder="Логин" type="text">
         <input name="userpass" placeholder="Пароль" type="password">
         <input name="" type="submit" value="Войти">
-        <input class="button1" type="button" value="Забыли пароль?">
+        <a href="#"><input class="button1" type="button" value="Забыли пароль?"></a>
         <a href="#"><input class="button2" type="button" value="Регистрация"></a>
       </div>
     </form>
@@ -111,6 +111,8 @@ h1 {
   transition: 0.5s;
   font-size: 18px;
   cursor: pointer;
+
+  text-decoration: line-through ;
 }
 
 .button2  {

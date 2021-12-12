@@ -9,7 +9,6 @@ Frontend проекта Umbrella для КРМУ г. Актобе.
 
 # Ниже идёт стандартое описание для проекта на vue
 
----
 ## Project setup
 ```
 npm install
